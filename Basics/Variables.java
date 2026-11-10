@@ -8,5 +8,6 @@ public class Variables {
         System.out.println("Name: " + name);
         System.out.println("Age: " + age);
         System.out.println("Learning GitHub step by step!");
+        System.out.println("This is my first GitHub branch!");
     }
 }
